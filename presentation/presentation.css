@@ -42,3 +42,21 @@ background-color:#ffffff;
 .button1:active {
 top:1px;
 }
+#back{
+    position: absolute;
+    margin: 2%;
+    font-family:Arial;
+    font-size:30px;
+    text-decoration:none;
+    color:#ffffff;
+
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+#back:hover{
+    background-color: rgba(128, 128, 128, 0.301);
+    border-radius: 100%;
+}
+   
